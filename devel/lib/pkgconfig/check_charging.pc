@@ -1,0 +1,8 @@
+prefix=/home/sajid/sajid_ws/devel
+
+Name: check_charging
+Description: Description of check_charging
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

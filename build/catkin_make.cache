@@ -1,0 +1,2 @@
+check_charging
+-DCATKIN_DEVEL_PREFIX=/home/sajid/sajid_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sajid/sajid_ws/install -G Unix Makefiles
